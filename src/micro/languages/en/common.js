@@ -1,0 +1,18 @@
+export default {
+  header: 'Profile Settings',
+  description: 'Fill out your contact information and language preferences',
+  hello: 'Default Page',
+  name: 'name',
+  email: 'email',
+  submit: 'Save',
+  cancel: 'Cancel',
+  loading: 'Loading',
+  language: 'Language',
+  fullName: 'Full Name',
+  title: 'General Information',
+  phone: 'Phone',
+  country: 'Country',
+  username: 'Alegra User',
+  titleLanguage: 'Select the preferred language for your Alegra workspace and solutions.',
+  editProfilePicture: 'Edit Photo',
+}
